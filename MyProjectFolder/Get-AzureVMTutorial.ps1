@@ -4,6 +4,7 @@
         For more information about how this runbook authenticates to your Azure subscription, see our documentation here: http://aka.ms/fxu3mn
 		
 		Added this comment to watch GitHub track the delta!
+		Added this comment in GitHub to watch Azure Automation pull the latest version!
 
     .NOTES
         AUTHOR: Azure Automation Team
